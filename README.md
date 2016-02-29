@@ -9,7 +9,7 @@
 ## Usage
 
 ```javascript
-var AuhorizeNet = require('authorize-net');
+var AuthorizeNet = require('authorize-net');
 var client = new AuthorizeNet({
   API_LOGIN_ID: '<PLACEHOLDER>',
   TRANSACTION_KEY: '<PLACEHOLDER>'
